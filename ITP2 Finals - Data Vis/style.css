@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif
+}
+
+.menu-item {
+    width: 250px;
+    height: 80px;
+    border: 1px solid gray;
+    list-style-type: none;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+#visuals-menu{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+
+.hover {
+    background: lightgray
+}
+
+.selected{
+    background: gold
+}
